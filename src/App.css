@@ -36,28 +36,3 @@ h2 {
   color: red;
   margin-top: 10px;
 }
-
-/* App.css */
-
-body {
-  background-image: url('c:\Users\Abhijit Deb\Downloads\background1.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  max-width: 400px;
-  margin: 0 auto;
-  text-align: center;
-  padding: 20px;
-  background-color: rgba(255, 255, 255, 0.5);
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  margin-top: 105px;
-}
-
-/* ... other styles ... */
